@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><van-button vue-id="8dd740cc-1" type="primary" data-com-type="wx" bind:__l="__l" vue-slots="{{['default']}}">默认按钮</van-button></view>
